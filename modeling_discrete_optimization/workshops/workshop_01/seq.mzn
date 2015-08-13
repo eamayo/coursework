@@ -1,4 +1,4 @@
-par int: n;
+int: n;
 
 
 set of int: PossibleVals = 0..3;
