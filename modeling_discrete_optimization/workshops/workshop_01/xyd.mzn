@@ -1,4 +1,4 @@
-set of int: PossibleVals = 1..9;
+set of int: PossibleVals = 0..9;
 
 var PossibleVals: x;
 var PossibleVals: y;
